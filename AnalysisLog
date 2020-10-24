@@ -1,0 +1,122 @@
+C:\Users\silve\.virtualenvs\SentimentAnalysis\Scripts\python.exe C:/Users/silve/SentimentAnalysis/analysis.py
+[nltk_data] Downloading package vader_lexicon to
+[nltk_data]     C:\Users\silve\AppData\Roaming\nltk_data...
+[nltk_data]   Package vader_lexicon is already up-to-date!
+1
+ Police joke.Dozens of demonstrators without a mask inches from the police.Screaming at them.They cling to their faces.Cops are exposed to the plague because of these rioters.Fucking, throw them home already!
+{'neg': 0.054, 'neu': 0.946, 'pos': 0.0, 'compound': -0.1511} 
+
+2
+ Adina Provizor, 72, from Tel Aviv, sat this morning on a bench in Rabin Square with coffee and cookies and put the mask aside. In trauma and my whole body hurts, "she said
+{'neg': 0.164, 'neu': 0.836, 'pos': 0.0, 'compound': -0.7096} 
+
+3
+ Towards the second closure I announce that I will not respond patiently to yoga videos in fast gear and pictures of baking bread. you have been warned
+{'neg': 0.08, 'neu': 0.92, 'pos': 0.0, 'compound': -0.2732} 
+
+4
+ The Government of Israel in 24 Hours:Tax refunds to the Prime Minister - yesAmendment of the Unemployment Benefit Law for the Self-Employed - NoAnd that's the whole story.
+{'neg': 0.097, 'neu': 0.803, 'pos': 0.1, 'compound': 0.0258} 
+
+5
+ I went back to work today and what makes me most happy is that next week I will be luckyGood on my birthday (and probably make me a cake too and bring me nice greetings to everyone who reads it).
+{'neg': 0.0, 'neu': 0.78, 'pos': 0.22, 'compound': 0.8622} 
+
+6
+ Finally a logical and helpful idea coming out of this government.The reduction in the minimum wage at this time will bring healing to thousands of people who are looking for work and do not find the problematic labor market following the corona crisis.I wrote about it extensively about a week ago and many economists have published many columns and articles on the subject.I wish that would happen.post Scriptum. Precisely because it is such an obvious and logical idea that the chances of it actually happening are very low.
+{'neg': 0.026, 'neu': 0.87, 'pos': 0.104, 'compound': 0.744} 
+
+7
+ The left is lucky that we are in the Corona period. Why if not, we would show their demonstrators what it is and not go out to demonstrate as usual because we are not good at it since 2005 😔
+{'neg': 0.057, 'neu': 0.877, 'pos': 0.066, 'compound': 0.1012} 
+
+8
+ I'll tell you something that stays with me all day. The conduct of the government at the moment is that there is no real conduct. It works in a hurry, pulling from the waist and putting out fires. There is no long-term plan. There is no thought of how to uproot the corona problem. There is no way and no leadership. So the result is that now everyone sees this government as clownish and ridiculous and it is snatching criticism from every direction and rightly so. The thing is, I don't think this is a new thing. The governments headed by Netanyahu have been operating like this for years. Simply on the issue of the Israeli-Palestinian conflict. After all, no one in the Likud ever really thought about how to resolve the conflict. Instead they have always put out fires with targeted operations and killings. There is no long-term plan. No political action will silence the region once and for all. Tactics without strategy is called that. The difference is that this time there is no enemy to blame. There is no face to this thing called corona. You can not hate her. And here, for the first time Bibi finds himself fighting himself, while everyone watches.
+{'neg': 0.2, 'neu': 0.766, 'pos': 0.034, 'compound': -0.9867} 
+
+9
+ We have reached this point because our government is full of degenerates. I do not think the demonstration will change that. It does, but will enthrone the next degenerates in power
+{'neg': 0.038, 'neu': 0.923, 'pos': 0.04, 'compound': 0.0134} 
+
+10
+ On days like these my stinging cynicism packs a bag and travels to her mother for a vacation.I have no criticism, I have no hatred, I have no judgment ...- So I want to say something good this time -The guys from One Heart asked me and Dana if we would like to go strengthen and stand at the siren under the balcony of an entire family, we said yes and so did the neighbors in the building and the other buildings around went out to the balconies to show respect, show we know and remember who we are here.charming.I hope that even after the corona we will adopt this beautiful thing.At least that's what I'll do.
+{'neg': 0.118, 'neu': 0.69, 'pos': 0.193, 'compound': 0.8562} 
+
+11
+ Minister Tzachi Hanegbi claimed that "it is a regret that people have nothing to eat" and heard as a minister without a portfolio if anyone understands regrets it is Tzachi Hanegbi.
+{'neg': 0.169, 'neu': 0.831, 'pos': 0.0, 'compound': -0.6486} 
+
+12
+ How do you celebrate an anniversary in the shadow of the corona you ask?Wall, pajamas, laundry piles and cooks sit into the night. At the height of the festivities we ordered a burger, and to feel truly married for 12 years, we faked a quarrel over who owned which burger.For many more burgers in common ❤️
+{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.8658} 
+
+13
+ For me, it was worth experiencing the whole period of this corona just to hear the old Moroccan woman on the bus now say on the phone "He has no fat, he is Ashimpachumchi"
+{'neg': 0.061, 'neu': 0.886, 'pos': 0.053, 'compound': -0.0772} 
+
+14
+ Okay Couples who have arranged a wedding canceled a wedding Postponed a wedding - your problem Okay? We were not part of your ambush planning to the best of my recollection but for some reason we have been walking like this with you and Oded Ben Ami hand in hand in recent months with the changes and the dilemma that this is how to say intolerable and intrusive and enough. Suffice it to update us on the news and in general, get married you will not get married, how do you say it is intact up to you, for me it's somewhere between interesting me and you will add Dyson to your relationship and get married in an unforgettable event with my father. In short, shut up
+{'neg': 0.038, 'neu': 0.798, 'pos': 0.165, 'compound': 0.9571} 
+
+15
+ How much disorder is there in the country? Can not check who really needs help and was hit by the crisis to give him NIS 12,000, NIS 3,000 is distributed to both Yitzhak Tshuva and the family in a slum in Ramla
+{'neg': 0.142, 'neu': 0.795, 'pos': 0.062, 'compound': -0.5888} 
+
+16
+ We Israelis have a short memory, so let me take a moment to throw you back a month:June 22, the corona returns, 400 new contagious per day, there is another option to moderate the curve and not officially enter a second wave for all its economic and psychological consequences.What about Bibi's agenda leader Ohana and Regev?The tax refunds that come or do not come to Bibi.Meetings, voting, lobbyists sweated and spit blood and exerted influence so that this so important issue would be addressed before any other issue. As if rewarded we defeated the Corona.So the next time the defendant goes up to a prime-time speech with graphs and statistics to tell you how he does everything to beat it, remember that this is all that interested him when you lost jobs and did not close the month:His own money and ass. And so it will be until you decide you deserve a little better than that.Haida Bibi.
+{'neg': 0.068, 'neu': 0.867, 'pos': 0.065, 'compound': -0.1095} 
+
+17
+ Half a world in business closures Economic courses Half a million dead people have nothing to eat Dramatic increase in domestic violence Everyone is depressed and the only thing we did was launch Cola Zero Mango I do not know why but I feel it is possible more
+{'neg': 0.15, 'neu': 0.816, 'pos': 0.034, 'compound': -0.6908} 
+
+18
+ And thanks to Steimatzky and last week's amazing sale thanks to which I have King's new for 25 NIS instead of 108 written on the cover 😁😁 Dr. Slip also joined the collection (in the comments of the collection)# Ready to close
+{'neg': 0.0, 'neu': 0.754, 'pos': 0.246, 'compound': 0.9022} 
+
+19
+ It's one thing to ruin people's business through a closure that prevents livelihoods due to unforeseen circumstances that require swift action, but to declare a closure on weekends at such short notice and without justification is 7 levels of stupidity and malice above.The basic dysfunction of this government is not the fault of the business owners. Let the restaurateurs finish their inventory for the weekend, let the place owners prepare for the closure next week properly.After all, no new and unexpected situation has been created here. Nothing changed between Tuesday and Thursday. There is no justification for announcing a weekend closure at such short notice. You have chosen the sector that is most economically affected in this crisis and you have shit on it a little more. Just heartlessness.I'm unfortunately in isolation and can not go out, but tonight I will order food from one of the open restaurants and I urge you to do the same. It is not possible that the colossal failure of this government in crisis management will repeatedly knock out business owners.
+{'neg': 0.219, 'neu': 0.736, 'pos': 0.045, 'compound': -0.9913} 
+
+20
+ By and large, thanks to the Corona I got an early glimpse of retirement and now I'm not sure I'm interested in going back to work.
+{'neg': 0.145, 'neu': 0.755, 'pos': 0.1, 'compound': -0.0823} 
+
+21
+ Confession.Yesterday I was supposed to direct one of the main stages in Rishon Lezion for the first time in my life. I was supposed to celebrate and make thousands of people laugh. So I was supposed to.Instead I woke up from the mucus that had cooled on my beard at 1 at night with my glasses still on me and the TV on on Lolly.I can really get mad at this. I can not either.I choose yes, but not for much. It's okay to be depressed if he's controlled, and I control him.Coming back soon. Slowly and carefully, and I intend to continue exactly from where I left off.Standup, acting, hosting events, conducting wedding ceremonies, creating viral content for myself and the biggest companies in the economy and other things that blossom inside my skull.Be with me.
+{'neg': 0.059, 'neu': 0.858, 'pos': 0.083, 'compound': 0.3031} 
+
+22
+ Listen, I have so many nerves in my body about this disgusting impotent governmentSo long have you had to make a plan, change things, but no, bring the economy and the residents to chaos and complete collapseIt's easiest to blame the citizens, personal responsibility is a must but beyond that you need a plan and long-term evidence, but leave, the main thing is 36 ministers with monstrous positions is the most important, no?Total loss of control and bankruptcy A bunch of corrupt zeros are fed up
+{'neg': 0.213, 'neu': 0.722, 'pos': 0.064, 'compound': -0.9126} 
+
+23
+ What I like about this period is that because everyone is in isolation and everyone has been knocked out for hours so everyone prepares lunch / breakfast / dinner at different times throughout the day and because of this about 19 times a day the smell of fried onions enters my apartment
+{'neg': 0.053, 'neu': 0.898, 'pos': 0.049, 'compound': -0.0516} 
+
+24
+ If you are unable to conduct a legal hearing with a mask and therefore require a postponement of the trial by half a year, then you probably can not conduct a state with a mask. Hard, isn't it Bibi?Let us also postpone your priesthood for six months
+{'neg': 0.077, 'neu': 0.888, 'pos': 0.035, 'compound': -0.2023} 
+
+25
+ Reut BergerHello everyone, I wanted to tell you what happened to me today. Today I went with my mother to do a corn test because I do not feel so well. My mother and I arrived and waited in line inside the car because we saw that the test was done inside the car ... in short it was our turn and my mother told the woman who was in charge of the test that I had CP and if the results could be expedited she agreed and then she contacted me on my mother's behalf My mother did the test) and my mother answers that it is her ... she told me: "First mother will do the test and then you". It was my turn to do the test and this woman starts talking to me like a girl who does not understand anything, she says Lee: "Wow do you have glasses? I also have glasses. "And it was not glasses at all. What she had was a plastic mask 🤦‍♀️ and my mother tells her that I understand !!! She just talked to me like a little girl !!!! I want to tell you, that I have this limitation Does not make me the least equal of them all ... and I want to say that if you encounter situations where you meet children with disabilities of one kind or another ... do not be in a hurry to judge them by how they look on the outside because it really does not mean anything. Get to know them better. You will care about them. You will learn to appreciate what you have in life because not everything is obvious. True, I have a limitation that some see and I have friends and girlfriends who are in a wheelchair. And be nice.I want to say that everyone is equal! Even someone who has some limitation - is definitely worth it!I turn to you, please stop with the stigma of people who have CP it must also be a mental problem or just talk to it in a childish and stupid way ..I would really love for you to spread this post so that together we can make the changeThanks 😊
+{'neg': 0.046, 'neu': 0.832, 'pos': 0.122, 'compound': 0.9786} 
+
+26
+ The year is 2020, and instead of producing a simple electronic form-Schools expect parents to manually fill out * every morning * a child health statement, print it out and send it with them.********Leave the crazy paper corruption (tens of thousands of pages a day), what about parents who do not have a printer? What about the time of teachers who have to file and maintain and manage all the hundreds of credentials that accumulate each week? What about the health risks? (Surface is surface is surface)********And it's not that no one has thought of it so there is not.Teachers who have raised a head and prepared such a form, are prohibited from using it (!) And are required to work with hard copy and paper.It is good that they did not ask the parents to go up to the top of the mountain and light a fire.********So yes, if there are certain schools that have a high percentage of parents without a smartphone (for religious or socio-economic reasons) they can be excluded.But as a general institutional method - it is absurd and a waste of money and time.********The Ministry of Education must lower the directive for schools to allow the transition to a simple electronic form, saving resources and very valuable time for both parties.********And no, I do not intend to fax you this post.
+{'neg': 0.048, 'neu': 0.859, 'pos': 0.093, 'compound': 0.8556} 
+
+27
+ In such a difficult time for the restaurant industry there is nothing more irritating than such irresponsible journalistic advertising. Regardless, go eat at Ruben not to support the restaurant industry, simply because it is delicious there in another section.
+{'neg': 0.163, 'neu': 0.701, 'pos': 0.136, 'compound': -0.0673} 
+
+28
+ When this period is over I will no longer zoom in on life, not even on camera
+{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.296} 
+
+29
+ Second closure in the air.Yesterday I even had time to sit with friends as part of the South will open the best - the community.We are heading towards a long and difficult period.On a personal level I hope the impact of the corona on my life will not be too dramatic. Overall I am studying programming and this is an area that is eventually expected to grow out of the corona that is leading us to a more digital world.At the national and global level we are entering difficult years.Hopefully I will find my opportunities to contribute to the chaos we are entering.There will be something to tell the grandchildren.Need patience, there is nothing to think about 'when will it end?'.Just deal as best you can with the changing circumstances.How did you get up this morning?
+{'neg': 0.06, 'neu': 0.822, 'pos': 0.119, 'compound': 0.8645} 
+
+
+Process finished with exit code 0
