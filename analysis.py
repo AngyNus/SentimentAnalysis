@@ -7,7 +7,12 @@ aproximatly will be the feelling of the avarage human reading this status.
 
 """
 
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
+#from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
+from typing import Any
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+#from vaderSentiment import nltk
+
 import nltk
 from googletrans import Translator
 
@@ -21,10 +26,13 @@ translator = Translator()
 # open statuses file
 with open("status.txt", 'r', encoding='utf-8') as status:
     # string for the complete status
+    
     sts = " "
     count = 1
     for line in status:
+        print(line)
         he_sentence = translator.translate(line)
+        #he_sentence = translator.translate(line, dest='en', src = 'auto')
         sts += he_sentence.text
         # if line == '\n':
         if len(line.strip()) == 0:
