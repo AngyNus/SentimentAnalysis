@@ -29,15 +29,20 @@ with open("status.txt", 'r', encoding='utf-8') as status:
     
     sts = " "
     count = 1
+    log_file = open('AnalysisLog.txt', 'w')
     for line in status:
-        print(line)
+        #print(line)
         he_sentence = translator.translate(line)
-        #he_sentence = translator.translate(line, dest='en', src = 'auto')
         sts += he_sentence.text
-        # if line == '\n':
         if len(line.strip()) == 0:
             print(count)
+            log_file.write('\n')
+            log_file.write(str(count) + "  - " )
+            
             print(sts)
+            #log_file.write(sts)
             print(sid.polarity_scores(sts), '\n')
+            log_file.write(str(sid.polarity_scores(sts)))
             count += 1
             sts = " "
+log_file.close()
